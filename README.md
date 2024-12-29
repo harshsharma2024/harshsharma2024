@@ -15,6 +15,11 @@
 Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome [action](https://github.com/athul/waka-readme)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
