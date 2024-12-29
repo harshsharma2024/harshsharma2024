@@ -8,6 +8,8 @@
 
 - Undergraduate student at IIT Kharagpur
 - Currently a generalist programmer with experience in web development and systems programming
+
+
 ---
 
 ## 🗃️ Weekly stats
