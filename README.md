@@ -8,6 +8,7 @@
 
 - Undergraduate student at IIT Kharagpur
 - Currently a generalist programmer with experience in web development and systems programming
+- Wants to Know More ?? [refer here](https://harshsharma2024.github.io/)
 
 
 ---
