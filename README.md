@@ -19,6 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 23 December 2024 - To: 30 December 2024
+
+Markdown   42 mins         ████████████████████████░   95.81 %
+YAML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
