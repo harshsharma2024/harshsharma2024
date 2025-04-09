@@ -20,12 +20,12 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 07 April 2025
+From: 01 April 2025 - To: 08 April 2025
 
-Python       6 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.76 %
-C++          4 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.89 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python       6 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.17 %
+C++          6 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.72 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
