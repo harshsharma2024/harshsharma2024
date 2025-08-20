@@ -20,11 +20,11 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-C++     53 mins         ███████████████▒░░░░░░░░░   61.44 %
-CMake   33 mins         █████████▓░░░░░░░░░░░░░░░   38.23 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+C++     1 hr 35 mins    ██████████████████░░░░░░░   72.36 %
+CMake   33 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+Text    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
