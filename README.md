@@ -20,12 +20,10 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-C++                  20 hrs 29 mins  ████████████████████████▓   98.01 %
-Text                 23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JSON                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++    21 hrs 51 mins  ████████████████████████▒   97.39 %
+Text   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
