@@ -20,13 +20,10 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-C            2 hrs 2 mins          ████████████████▒░░░░░░░░   65.95 %
-Other        23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-C++          12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Python       12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON         11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+C        2 hrs 2 mins          ██████████████████████▓░░   90.92 %
+Python   12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
 ```
 
 <!--END_SECTION:waka-->
